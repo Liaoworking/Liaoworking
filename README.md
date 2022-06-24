@@ -18,7 +18,9 @@ side projects:
 
 ##### [家人屏幕共享](https://apps.apple.com/app/id1587552740) A screen share application, it can help you to teach elder that how to use mobile phone remotely.
 
-##### [BlockHappy](http://apps.apple.com/app/id1563703509?l=en&mt=12) A Safari Extension Application, it can prevent you form browsing some entertainning websets when you are working.
+##### [BlockHappy](http://apps.apple.com/app/id1563703509?l=en&mt=12) A Safari extension application, it can prevent you form browsing some entertainning websets when you are working.
+
+##### [UPet](http://apps.apple.com/app/id1626119076?l=en&mt=12) A Mac Version Bongo-cat-osu.
 
 
 
