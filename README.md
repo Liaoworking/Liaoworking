@@ -12,6 +12,7 @@ side projects:
 <img align="center" height="50" src="http://image.chenc.site/moyu.png">
 <img align="center" height="38" src="http://image.chenc.site/sharescreen2.png"> 
 <img align="center" height="50" src="http://image.chenc.site/blockhappy.png">
+<img align="center" height="50" src="http://image.chenc.site/UPet.png">
 </div>
 
 ##### [摸鱼单词](https://apps.apple.com/app/id1488909953) A vocabulary application, it can help you to learn some words when you are working or slacking.
