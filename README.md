@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi, I'm Liaoworking.</h2>
-<h3 align="center">An iOS developer with so much useless Apps.</h3>
+<h3 align="center">An iOS developer with so many useless Apps.</h3>
 <h3 align="center">Interested in creating some funny applications.</h3>
 
 ---
